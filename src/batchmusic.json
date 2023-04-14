@@ -29,6 +29,36 @@
                   "SongYear": {"S": "1992"}
                 }
             }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Taylor Swift"},
+                  "SongTitle": {"S": "Blank Space"},
+                  "AlbumTitle": {"S": "1989"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Taylor Swift"},
+                  "SongTitle": {"S": "This Love"},
+                  "AlbumTitle": {"S": "1989"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Taylor Swift"},
+                  "SongTitle": {"S": "Style"},
+                  "AlbumTitle": {"S": "1989"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
         }
       ]
 }
