@@ -4,3 +4,10 @@
   "AlbumTitle": {"S": "Fear of the Dark"},
   "SongYear": {"S": "1992"}
 }
+
+{
+  "Artist": {"T": "Taylor Swift"},
+  "SongTitle": {"T": "Style"},
+  "AlbumTitle": {"T": "1989"},
+  "SongYear": {"T": "2014"}
+}
