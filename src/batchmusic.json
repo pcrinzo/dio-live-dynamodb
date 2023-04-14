@@ -33,30 +33,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Taylor Swift"},
-                  "SongTitle": {"S": "Blank Space"},
-                  "AlbumTitle": {"S": "1989"},
-                  "SongYear": {"S": "2014"}
+                  "Artist": {"T": "Taylor Swift"},
+                  "SongTitle": {"T": "Blank Space"},
+                  "AlbumTitle": {"T": "1989"},
+                  "SongYear": {"T": "2014"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Taylor Swift"},
-                  "SongTitle": {"S": "This Love"},
-                  "AlbumTitle": {"S": "1989"},
-                  "SongYear": {"S": "2014"}
+                  "Artist": {"T": "Taylor Swift"},
+                  "SongTitle": {"T": "This Love"},
+                  "AlbumTitle": {"T": "1989"},
+                  "SongYear": {"T": "2014"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Taylor Swift"},
-                  "SongTitle": {"S": "Style"},
-                  "AlbumTitle": {"S": "1989"},
-                  "SongYear": {"S": "2014"}
+                  "Artist": {"T": "Taylor Swift"},
+                  "SongTitle": {"T": "Style"},
+                  "AlbumTitle": {"T": "1989"},
+                  "SongYear": {"T": "2014"}
                 }
             }
         }
