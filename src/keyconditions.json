@@ -2,3 +2,9 @@
     ":artist":{"S":"Iron Maiden"},
     ":title":{"S":"Weekend Warrior"}
 }
+{
+    ":artist":{"T":"Taylor Swift"},
+    ":title":{"T":"1989"}
+}
+
+
